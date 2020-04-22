@@ -1,0 +1,21 @@
+var mattia; mattia.exitTheHouse();
+mattia.goToBusStop();
+while(upcomingBus != 23){ mattia.waitTheBus();
+}
+mattia.takeTheBus();
+Javascript pseudocodes
+PSEUDOCODE
+HOW DO YOU COME TO SCHOOL?
+while(busStop != "Yaletown Roundhouse"){ mattia.stayOnTheBus();
+} mattia.exitTheBus();
+mattia.enterSkyTrainStation();
+while (skytrain.direction() != "Waterfront"){ mattia.waitForSkytrain();
+}
+mattia.takeTheSkytrain();
+for(var number_of_stops = 0; number_of_stops < 3; number_of_stops++){
+mattia.stayOnTheSkytrain();
+}
+mattia.exitSkytrainStation();
+if (ItdCanada == "open"){ mattia.enterTheSchool();
+} else { mattia.goBackHome();
+}
