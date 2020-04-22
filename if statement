@@ -1,0 +1,4 @@
+var weather = "sunny";
+if (weather == "sunny"){
+alert ("enjoy the sun!"); 
+} else { alert ("take your umberalla!");
